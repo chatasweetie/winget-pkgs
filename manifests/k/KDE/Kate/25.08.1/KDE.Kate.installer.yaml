@@ -9,14 +9,14 @@ ProductCode: Kate
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/utilities/kate/release-25.08/windows/kate-release_25.08-10255-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: B56432ED028E69F4D8224EF3694BA71F9FA3196E141C9FBB1B86F1ED2499D468
+  InstallerUrl: https://cdn.kde.org/ci-builds/utilities/kate/release-25.08/windows/kate-release_25.08-10322-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 75AC2894DDE0B32B15FBFCFACABDED9964B673D906E44D32F8FB54916062A656
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/utilities/kate/release-25.08/windows/kate-release_25.08-10255-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: B56432ED028E69F4D8224EF3694BA71F9FA3196E141C9FBB1B86F1ED2499D468
+  InstallerUrl: https://cdn.kde.org/ci-builds/utilities/kate/release-25.08/windows/kate-release_25.08-10322-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 75AC2894DDE0B32B15FBFCFACABDED9964B673D906E44D32F8FB54916062A656
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
